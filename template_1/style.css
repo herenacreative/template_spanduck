@@ -1,0 +1,98 @@
+.template-1, .template-1 * { box-sizing: border-box; }.template-1 {
+      background: #0a0908;
+      padding: 65px 65px 65px 65px;
+      width: 1080px; height: 1080px;
+      position: relative;
+    }
+ .frame-1 {
+  border: solid #ffffff; 
+  border-width: 5px;
+      width: 950px; height: 950px;
+      position: absolute; left: 65px;top: 65px;
+      overflow: hidden;
+    }
+ .image-1 {
+      width: 950px; height: 1188.66px;
+      position: absolute; left: 0px;top: -119px;
+    }
+ .created-with----by--spanduck {
+      width: 205px; height: 17px;
+      position: absolute; left: 723px;top: 914px;
+    }
+ .created-with----by--spanduck2 {
+      text-align: left;
+      font: 400 14px 'Inter', sans-serif;
+      position: absolute; left: 0px;top: 0px;
+    }
+.created-with----by--spanduck2-span {
+      color: #ffffff;
+      font: 400 14px 'Inter', sans-serif;
+    }
+.created-with----by--spanduck2-span2 {
+      color: #cc1416;
+      font: 400 14px 'Inter', sans-serif;
+    }
+.created-with----by--spanduck2-span3 {
+      color: #ffffff;
+      font: 400 14px 'Inter', sans-serif;
+    }
+ .line-1--stroke- {
+      position: absolute; left: 100px;top: 688px;
+      transform: translate(0px, 0px);
+      overflow: visible;
+    }
+ .username {
+      width: 644px; height: 126px;
+      position: static;
+    }
+ .blacklist-international {
+      color: #ffffff;
+      text-align: left;
+      font: 400 36px 'Inter', sans-serif;
+      position: absolute; left: 267px;top: 749px;
+    }
+ .-blacklistintl {
+      color: #ffffff;
+      text-align: left;
+      font: 400 24px 'Inter', sans-serif;
+      position: absolute; left: 267px;top: 804px;
+    }
+ .ellipse-1 {
+      border-radius: 50%;
+      width: 127px; height: 126px;
+      position: absolute; left: 112px;top: 728px;
+    }
+ .let-s-bring-it-home--queen--backtoblck----breakthecode--m4 {
+      color: #ffffff;
+      text-align: left;
+      font: 700 64px 'Inter', sans-serif;
+      position: absolute; left: 93px;top: 137px;
+      width: 693px; height: 521px;
+    }
+.let-s-bring-it-home--queen--backtoblck----breakthecode--m4-span {
+      color: #ffffff;
+      font: 700 64px 'Inter', sans-serif;
+    }
+.let-s-bring-it-home--queen--backtoblck----breakthecode--m4-span2 {
+      color: #ffffff;
+      font: 700 64px 'Inter', sans-serif;
+      text-decoration: underline;
+    }
+.let-s-bring-it-home--queen--backtoblck----breakthecode--m4-span3 {
+      color: #ffffff;
+      font: 700 64px 'Inter', sans-serif;
+    }
+.let-s-bring-it-home--queen--backtoblck----breakthecode--m4-span4 {
+      color: #ffffff;
+      font: 700 64px 'Inter', sans-serif;
+      text-decoration: underline;
+    }
+.let-s-bring-it-home--queen--backtoblck----breakthecode--m4-span5 {
+      color: #ffffff;
+      font: 700 64px 'Inter', sans-serif;
+    }
+.let-s-bring-it-home--queen--backtoblck----breakthecode--m4-span6 {
+      color: #ffffff;
+      font: 700 64px 'Inter', sans-serif;
+      text-decoration: underline;
+    }

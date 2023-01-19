@@ -1,0 +1,73 @@
+.16_142 { 
+	overflow:hidden;
+}.e16_142 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1080px;
+	height:1080px;
+	position:absolute;
+}.e16_143 { 
+	width:1080px;
+	height:1080px;
+	position:absolute;
+	left:4.547473508864641e-13px;
+	top:0px;
+	background-image:url(images/image_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16_144 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.800000011920929);
+	width:1080px;
+	height:1080px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e16_145 { 
+	color:rgba(30.00000011175871, 30.00000011175871, 30.00000011175871, 1);
+	width:711px;
+	height:413px;
+	position:absolute;
+	left:185px;
+	top:482px;
+	font-family:Irish Grover;
+	text-align:center;
+	font-size:64px;
+	letter-spacing:0;
+}.e16_146 { 
+	background-image:linear-gradient(0deg, rgba(30.00000011175871, 30.00000011175871, 30.00000011175871, 1) 0%,rgba(119.00000050663948, 4.000000236555934, 9.000000413507223, 1) 100%) ;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	-moz-background-clip:text;
+	-moz-text-fill-color:transparent;
+	-ms-background-clip:text;
+	-ms-text-fill-color:transparent;
+	width:458px;
+	height:44px;
+	position:absolute;
+	left:311px;
+	top:292px;
+	font-family:Irish Grover;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}.e16_147 { 
+	color:rgba(119.00000050663948, 4.000000236555934, 9.000000413507223, 1);
+	width:208px;
+	height:29px;
+	position:absolute;
+	left:436px;
+	top:347px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.e16_148 { 
+	border-radius:500px;
+	width:127px;
+	height:126px;
+	position:absolute;
+	left:477px;
+	top:126px;
+	background-image:url(images/ellipse_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
