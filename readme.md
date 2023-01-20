@@ -1,3 +1,3 @@
 # Template
 
-<img src="image/temp_1" alt="temp" width="200"/>
+<img src="image/temp_1.png" alt="temp" width="200"/>
