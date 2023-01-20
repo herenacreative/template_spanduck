@@ -66,6 +66,9 @@
       <td><img src="image/meta_1.png" alt="meta" width="400"/>
         <br/>meta 1
       </td>
+      <td><img src="image/meta_2.png" alt="meta" width="400"/>
+        <br/>meta 2
+      </td>
     </tr>
   </tbody>
 </table>
