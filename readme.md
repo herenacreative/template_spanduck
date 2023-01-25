@@ -57,6 +57,28 @@
         <br/>template 15
       </td>
     </tr>
+     <tr>
+      <td><img src="image/temp_16.png" alt="temp" width="200"/>
+        <br/>template 16
+      </td>
+      <td><img src="image/temp_17.png" alt="temp" width="200"/>
+        <br/>template 17
+      </td>
+      <td><img src="image/temp_18.png" alt="temp" width="200"/>
+        <br/>template 18
+      </td>
+    </tr>
+     <tr>
+      <td><img src="image/temp_19.png" alt="temp" width="200"/>
+        <br/>template 19
+      </td>
+      <td><img src="image/temp_20.png" alt="temp" width="200"/>
+        <br/>template 20
+      </td>
+      <td><img src="image/temp_21.png" alt="temp" width="200"/>
+        <br/>template 21
+      </td>
+    </tr>
   </tbody>
 </table>
 
